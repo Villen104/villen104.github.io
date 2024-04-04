@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: dey.16084@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Metallurgy
+- ⚡ Fun fact: I'm currently studying B. Tech Metallurgical Engineering 
 
 <a href="https://www.github.com/Villen104" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Villen104?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
